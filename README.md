@@ -1,3 +1,4 @@
+![배너](https://your-image-url.com/banner.png)
 # ☕ PHP 카페 홈페이지 프로젝트
 
 영남이공대학교 2학년 PHP 수업 프로젝트  
